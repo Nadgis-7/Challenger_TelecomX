@@ -22,11 +22,13 @@ El propósito principal es **comprender los factores que influyen en la pérdida
 ---
 
 ## 📁 Estructura del proyecto
-```plaintext
+````plaintext 
 📦 telecomx-churn-analysis
 ├── Challenger_TelecomX.ipynb       # Notebook principal con el análisis completo
 ├── TelecomX_Data.json              # Datos originales descargados desde la API
 └── README.md                       # Descripción general del proyecto
+````
+---
 
 ## 🔎 Proceso de Análisis
 
