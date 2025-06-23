@@ -41,7 +41,7 @@ El propósito principal es **comprender los factores que influyen en la pérdida
 
 > 💡 También podés usar este botón directo para abrirlo en Colab:
 
-[![Abrir en Colab](https://colab.research.google.com/drive/1JCer63zM868i707aCUdnFuq1U1BH9CGo?usp=sharing)
+[Abrir en Colab](https://colab.research.google.com/drive/1JCer63zM868i707aCUdnFuq1U1BH9CGo?usp=sharing)
 
 ## 🔎 Proceso de Análisis
 
