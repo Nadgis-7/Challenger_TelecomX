@@ -29,6 +29,19 @@ El propósito principal es **comprender los factores que influyen en la pérdida
 └── README.md                       # Descripción general del proyecto
 ````
 ---
+## ▶️ Instrucciones para Ejecutar el Notebook
+
+### 🔗 Opción 1: Abrir en Google Colab
+
+1. Ir a [Google Colab](https://colab.research.google.com/)
+2. Seleccionar la pestaña **"GitHub"**
+3. Pegar esta URL del repositorio: [GitHub](https://github.com/Nadgis-7/Challenger_TelecomX)
+4.4. Abrir el archivo `Challenger_TelecomX.ipynb`
+5. Ejecutar las celdas paso a paso (`Shift + Enter`)
+
+> 💡 También podés usar este botón directo para abrirlo en Colab:
+
+[![Abrir en Colab](https://colab.research.google.com/drive/1JCer63zM868i707aCUdnFuq1U1BH9CGo?usp=sharing)
 
 ## 🔎 Proceso de Análisis
 
